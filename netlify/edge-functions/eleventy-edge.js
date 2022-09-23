@@ -1,5 +1,4 @@
-import { EleventyEdge } from "eleventy:edge";
-import precompiledAppData from "./_generated/eleventy-edge-app-data.js";
+import { EleventyEdge, precompiledAppData } from "./_generated/eleventy-edge-app.js";
 import searchData from "./_generated/search-data.js";
 
 export default async (request, context) => {
