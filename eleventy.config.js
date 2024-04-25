@@ -98,10 +98,7 @@ export const config = {
 
 	// These are all optional:
 	dir: {
-		input: "content",          // default: "."
-		includes: "../_includes",  // default: "_includes" (`input` relative)
-		data: "../_data",          // default: "_data" (`input` relative)
-		output: "_site"
+		input: "content",
 	},
 
 	// -----------------------------------------------------------------
